@@ -15,7 +15,7 @@ class FileOrganizer:
     
     def setup_directories(self):
         """Create output directory structure"""
-        categories = ['documents', 'data', 'reports', 'personal', 'work', 'other']
+        categories = ['documents', 'data', 'reports', 'personal', 'work', 'images', 'other']
         
         for category in categories:
             category_dir = self.output_dir / category

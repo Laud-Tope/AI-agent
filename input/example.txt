@@ -1,5 +1,0 @@
-This is a sample file for testing.
-<Ctrl+Z> to save
-
-python main.py
-

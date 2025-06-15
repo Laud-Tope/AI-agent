@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-06-14T22:37:29.977971",
+  "total_files": 1,
+  "categories": {
+    "images": 1
+  },
+  "files": [
+    {
+      "file": "NFT 1.jpg",
+      "analysis": {
+        "category": "images",
+        "summary": "Image file: NFT 1.jpg. May contain photos, graphics, or visual content.",
+        "tags": [
+          "image",
+          "visual",
+          "jpg"
+        ],
+        "priority": "medium",
+        "action_needed": "Review and organize in image collection",
+        "note": "Default analysis used due to: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+      },
+      "organization": {
+        "original_path": "input\\NFT 1.jpg",
+        "new_path": "output\\images\\NFT 1.jpg",
+        "category": "images",
+        "timestamp": "2025-06-14T22:37:29.429787",
+        "status": "success"
+      }
+    }
+  ]
+}
